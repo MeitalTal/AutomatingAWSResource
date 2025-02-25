@@ -25,7 +25,7 @@ Make sure you have the following installed:
 ```bash
  git clone https://github.com/meitaltal/AutomatingAWSResource.git
  
- cd AutomatingAWSResource/streamlit_app
+ cd AutomatingAWSResource
 ```
 
 ### Install Dependencies
