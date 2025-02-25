@@ -56,3 +56,6 @@ Before using, make sure you are logged in with AWS CLI:
 - Select an Action.
 
 - Follow on-screen instructions to manage AWS resource.
+
+#### Demo Images
+![Image Description](images/Example1.png)
