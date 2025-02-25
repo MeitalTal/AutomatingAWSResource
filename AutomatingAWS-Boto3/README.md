@@ -47,8 +47,6 @@ Before using, make sure you are logged in with AWS CLI:
  python main.py
 ```
 
-- Enter your AWS username.
-
 ##### Managing AWS Services
 
 - Select a service.
