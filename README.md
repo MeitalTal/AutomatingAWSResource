@@ -1,5 +1,5 @@
 # Automating AWS Resource
-This repository contains four related projects, each implementing a different interface for the same core functionality.
+This repository contains four related projects, each implementing a different interface for automating AWS resource such as EC2, S3 and Route53
 
 ### Project Structure
 ```sh
