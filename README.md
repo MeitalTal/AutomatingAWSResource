@@ -3,11 +3,11 @@ This repository contains four related projects, each implementing a different in
 
 ### Project Structure
 ```sh
-/AutomatingAWSResource
-│── /AutomatingAWS-Boto3      # CLI tool with interactive menu
-│── /AutomatingAWS-CLI        # CLI tool without menu
-│── /streamlit_app            # Streamlit web app
-│── /AutomatingAWSFastAPI     # FastAPI backend
+AutomatingAWSResource/
+│── AutomatingAWS-Boto3      # CLI tool with interactive menu
+│── AutomatingAWS-CLI        # CLI tool without menu
+│── streamlit_app            # Streamlit web app
+│── AutomatingAWSFastAPI     # FastAPI backend
 │── README.md                 # This file
 ```
 
