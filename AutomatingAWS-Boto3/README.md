@@ -58,6 +58,6 @@ Before using, make sure you are logged in with AWS CLI:
 - Follow on-screen instructions to manage AWS resource.
 
 #### Demo Images
-![Example1](images/Examples1.png)
-![Example2](images/Examples2.png)
-![Example3](images/Examples3.png)
+assets/demo-gif-cli.gif
+![Demo GIF](assets/demo-gif-cli.gif)
+
