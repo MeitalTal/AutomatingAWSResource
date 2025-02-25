@@ -57,6 +57,6 @@ Before using, make sure you are logged in with AWS CLI:
 
 - Follow on-screen instructions to manage AWS resource.
 
-#### Demo
+# Demo
 ![Demo GIF](assets/demo.gif)
 
