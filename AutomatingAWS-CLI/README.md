@@ -112,9 +112,6 @@ python main.py route53 update-record --zone-id <zone-id> --record-name www.examp
 python main.py route53 delete-record --zone-id <zone-id> --record-name www.example.com --value "192.168.1.2" --ttl 300
 ```
 
-#### Demo Images
-![EC2](images/EC2-Examples.png)
-![S3](images/S3-Examples.png)
-![R53-1](images/R53-Examples1.png)
-![R53-2](images/R53-Examples2.png)
+#### Demo
+![Demo GIF](assets/demo.gif)
 
