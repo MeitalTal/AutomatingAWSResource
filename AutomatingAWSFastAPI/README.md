@@ -26,7 +26,7 @@ Before running the API, ensure you have:
 
 ```sh
 git clone https://github.com/your-repo/aws-fastapi.git
-cd aws-fastapi
+cd AutomatingAWSFastAPI
 ```
 
 2. Install dependencies:
