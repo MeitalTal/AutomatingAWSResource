@@ -54,8 +54,7 @@ streamlit run streamlit_app/Welcome.py
 - Follow on-screen instructions to manage AWS resource.
 
 # Video Demo
-[![Demo Video](assets/demo.gif)](https://youtu.be/0NQSFX56dW8?si=JKleWMoFq89I_Umf)
 
-[![Demo Video](assets/demo_thumbnail.png)](https://youtu.be/0NQSFX56dW8?si=JKleWMoFq89I_Umf)
+[Watch the demo on YouTube](https://youtu.be/0NQSFX56dW8?si=JKleWMoFq89I_Umf)
 
 
