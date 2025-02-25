@@ -43,7 +43,7 @@ streamlit run streamlit_app/Welcome.py
 
 ### Login
 
-- Enter your AWS username.
+- AWS username.
 
 ### Managing AWS Services
 
