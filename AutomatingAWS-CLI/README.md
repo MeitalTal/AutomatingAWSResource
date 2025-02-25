@@ -25,7 +25,7 @@ Make sure you have the following installed:
 ```bash
  git clone https://github.com/MeitalTal/AutomatingAWSResource.git
  
- cd AutomatingAWSResource/AutomatingAWS-Boto3
+ cd AutomatingAWSResource/AutomatingAWS-CLI
 ```
 
 ### Install Dependencies
