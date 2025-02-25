@@ -1,7 +1,7 @@
 # Automating AWS Resource
 This repository contains four related projects, each implementing a different interface for the same core functionality.
 
-Project Structure
+### Project Structure
 ```sh
 /my_project_repo
 │── /cli_with_menu      # CLI tool with interactive menu
@@ -11,10 +11,10 @@ Project Structure
 │── README.md           # This file
 ```
 
-Each project directory contains its own README.md file with specific details and instructions.
+**Each project directory contains its own README.md file with specific details and instructions.**
 
 
-Project Descriptions
+### Project Descriptions
 
 1. CLI Tool with Menu (cli_with_menu)
 - An interactive command-line tool that provides a menu-based interface for users to select services and actions easily.
