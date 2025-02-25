@@ -115,6 +115,6 @@ python main.py route53 delete-record --zone-id <zone-id> --record-name www.examp
 #### Demo Images
 ![EC2](images/EC2-Examples.png)
 ![S3](images/S3-Examples.png)
-![R53-1](images/R53-Examples-1.png)
-![R53-2](images/R53-Examples-2.png)
+![R53-1](images/R53-Examples1.png)
+![R53-2](images/R53-Examples2.png)
 
