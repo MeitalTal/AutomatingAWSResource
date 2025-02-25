@@ -3,12 +3,12 @@ This repository contains four related projects, each implementing a different in
 
 ### Project Structure
 ```sh
-/my_project_repo
-│── /cli_with_menu      # CLI tool with interactive menu
-│── /cli_no_menu        # CLI tool without menu
-│── /streamlit_app      # Streamlit web app
-│── /fastapi_api        # FastAPI backend
-│── README.md           # This file
+/AutomatingAWSResource
+│── /AutomatingAWS-Boto3      # CLI tool with interactive menu
+│── /AutomatingAWS-CLI        # CLI tool without menu
+│── /streamlit_app            # Streamlit web app
+│── /AutomatingAWSFastAPI     # FastAPI backend
+│── README.md                 # This file
 ```
 
 **Each project directory contains its own README.md file with specific details and instructions.**
