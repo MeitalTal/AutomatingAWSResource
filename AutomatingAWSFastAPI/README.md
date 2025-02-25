@@ -51,7 +51,7 @@ The API will be available at: http://127.0.0.1:8000
 
 ### API Endpoints
 
-##### EC2
+##### EC2:
 
 - List Instances: `GET /ec2/list-instances`
 
@@ -59,7 +59,7 @@ The API will be available at: http://127.0.0.1:8000
 
 - Manage Instance: `POST /ec2/manage-instance?instance_id={id}&action={start|stop|reboot}`
 
-##### S3
+##### S3:
 
 - List Buckets: `GET /s3/list-buckets`
 
@@ -67,7 +67,7 @@ The API will be available at: http://127.0.0.1:8000
 
 - Upload File: `POST /s3/upload-file?bucket_name={name}&file_path={path}`
 
-##### Route 53
+##### Route 53:
 
 - List Hosted Zones: `GET /route53/list-zones`
 
