@@ -8,7 +8,7 @@ AutomatingAWSResource/
 │── AutomatingAWS-CLI        # CLI tool without menu
 │── streamlit_app            # Streamlit web app
 │── AutomatingAWSFastAPI     # FastAPI backend
-│── README.md                 # This file
+│── README.md                # This file
 ```
 
 **Each project directory contains its own README.md file with specific details and instructions.**
