@@ -56,9 +56,9 @@ class S3Service(BaseAWSService):
         except ClientError as e:
             error_code = e.response["Error"]["Code"]
             if error_code in ["BucketAlreadyExists", "BucketAlreadyOwnedByYou"]:
-                print(f"The bucket name '{bucket_name}' is already in use. Please choose a different name.")
+                st.error(f"The bucket name '{bucket_name}' is already in use. Please choose a different name.")
             else:
-                print(f"Error while creating bucket: {e}")
+                st.error(f"Error while creating bucket: {e}")
 
 
     # Add tags when creating S3 bucket
