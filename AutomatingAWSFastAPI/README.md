@@ -25,8 +25,8 @@ Before running the API, ensure you have:
 1. Clone the repository:
 
 ```sh
-git clone https://github.com/your-repo/aws-fastapi.git
-cd AutomatingAWSFastAPI
+git clone https://github.com/MeitalTal/AutomatingAWSResource.git
+cd AutomatingAWSResource/AutomatingAWSFastAPI
 ```
 
 2. Install dependencies:
