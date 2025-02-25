@@ -16,19 +16,19 @@ AutomatingAWSResource/
 
 ### Project Descriptions
 
-1. **CLI Tool with Menu (cli_with_menu)**
+1. **CLI Tool with Menu (AutomatingAWS-Boto3)**
 - An interactive command-line tool that provides a menu-based interface for users to select services and actions easily.
 
-2. **CLI Tool without Menu (cli_no_menu)**
+2. **CLI Tool without Menu (AutomatingAWS-CLI)**
 - A streamlined command-line tool that operates via direct command execution without interactive menus.
 
 3. **Streamlit App (streamlit_app)**
 
 - A web-based application built with Streamlit to provide a user-friendly interface for interacting with the core functionality.
 
-4. **FastAPI Backend (fastapi_api)**
+4. **FastAPI Backend (AutomatingAWSFastAPI)**
 
-- A RESTful API built using FastAPI to expose the core functionality via HTTP endpoints.
+- A RESTful API built using FastAPI.
 
 
 
